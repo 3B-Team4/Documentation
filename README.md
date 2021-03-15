@@ -1,2 +1,2 @@
 # Documentation
-Contains documentation about project planning, delivery, development methodology, research anf analysis, weekly journals, etc.
+Contains documentation about project planning, delivery, development methodology, research and analysis, weekly journals, etc.
